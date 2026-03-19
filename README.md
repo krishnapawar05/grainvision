@@ -29,22 +29,12 @@ It takes an image as input and highlights impurities using **bounding boxes with
 
 ---
 
-# 📷 Sample Input Images
+# 📷 Grain Types Example
 
-These are real dataset images used for testing:
-
-### 🟢 Pulses with Mud
-![Pulses](./IMG_20251010_112335.jpg)
-
-### 🍚 Rice with Stones
-![Rice](./IMG_20251010_114116.jpg)
-
-### 🌾 Mixed Grains with Contaminants
-![Grains](./IMG_20251010_130604_1.jpg)
-
-### 🟡 Millets with Stones
-![Millets](./IMG_20251010_110102.jpg)
-
+The system can analyze multiple grain varieties.
+- Rice
+- Wheat
+- pulses
 ---
 
 # 🔍 Example Output
