@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+Pillow==10.3.0
+ultralytics==8.2.28
+
+# Install torch and torchvision from the official PyTorch CPU index
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.0
+torchvision==0.18.0
